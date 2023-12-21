@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929728896505",
+    "project_id": "praktikum9-cd969",
+    "storage_bucket": "praktikum9-cd969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929728896505:android:5d400faee7c3898702f128",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVe-CZgbsauuYXJJmwOdO-DePkPDpTSzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929728896505:android:d1539d79fa8ea1e902f128",
+        "android_client_info": {
+          "package_name": "com.example.praktikum9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVe-CZgbsauuYXJJmwOdO-DePkPDpTSzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
